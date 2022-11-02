@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://lorbarh.github.io/csb-guv5cq/static/css/main.141cb0f0.chunk.css",
+    "main.js": "https://lorbarh.github.io/csb-guv5cq/static/js/main.709d4e37.chunk.js",
+    "main.js.map": "https://lorbarh.github.io/csb-guv5cq/static/js/main.709d4e37.chunk.js.map",
+    "runtime-main.js": "https://lorbarh.github.io/csb-guv5cq/static/js/runtime-main.932f60d0.js",
+    "runtime-main.js.map": "https://lorbarh.github.io/csb-guv5cq/static/js/runtime-main.932f60d0.js.map",
+    "static/js/2.03f17fe6.chunk.js": "https://lorbarh.github.io/csb-guv5cq/static/js/2.03f17fe6.chunk.js",
+    "static/js/2.03f17fe6.chunk.js.map": "https://lorbarh.github.io/csb-guv5cq/static/js/2.03f17fe6.chunk.js.map",
+    "index.html": "https://lorbarh.github.io/csb-guv5cq/index.html",
+    "static/css/main.141cb0f0.chunk.css.map": "https://lorbarh.github.io/csb-guv5cq/static/css/main.141cb0f0.chunk.css.map",
+    "static/js/2.03f17fe6.chunk.js.LICENSE.txt": "https://lorbarh.github.io/csb-guv5cq/static/js/2.03f17fe6.chunk.js.LICENSE.txt",
+    "static/media/lorbarh.e1437dde.jpg": "https://lorbarh.github.io/csb-guv5cq/static/media/lorbarh.e1437dde.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.932f60d0.js",
+    "static/js/2.03f17fe6.chunk.js",
+    "static/css/main.141cb0f0.chunk.css",
+    "static/js/main.709d4e37.chunk.js"
+  ]
+}
